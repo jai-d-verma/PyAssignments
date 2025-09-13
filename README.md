@@ -21,14 +21,14 @@ Write a Python program that:
    - Division
 3. Displays the results on the screen.
 
-**Expected Output**
-Enter the first number: 5
-Enter the second number: 10
-
-Addition: 15
-Subtraction: -5
-Multiplication: 50
-Division: 0.5
+**Expected Output**  
+Enter the first number: 5  
+Enter the second number: 10  
+  
+Addition: 15  
+Subtraction: -5  
+Multiplication: 50  
+Division: 0.5  
 
 
 **File Name:** `Task-1.py`
@@ -51,8 +51,8 @@ Write a Python program that:
 
 **Expected Output**
 
-Enter your first name: John
-Enter your last name: Doe
+Enter your first name: John  
+Enter your last name: Doe  
 
 Hello, John Doe! Welcome to the Python program.
 **File Name:** `Task-2.py`
