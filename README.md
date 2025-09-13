@@ -7,6 +7,9 @@ Task 1: Perform Basic Mathematical Operations
 
 Task 2: Create a Personalized Greeting
 
+
+
+
 Task 1: Perform Basic Mathematical Operations
 
 Problem Statement
@@ -42,6 +45,9 @@ File Name: Task-1.py
 How to Run
 
 python Task-1.py
+
+
+
 
 Task 2: Create a Personalized Greeting
 
