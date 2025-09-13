@@ -54,7 +54,7 @@ Write a Python program that:
 Enter your first name: John  
 Enter your last name: Doe  
 
-Hello, John Doe! Welcome to the Python program.
+Hello, John Doe! Welcome to the Python program.  
 **File Name:** `Task-2.py`
 **How to Run**
 ```bash
